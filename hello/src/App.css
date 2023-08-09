@@ -24,8 +24,16 @@
   color: white;
 }
 
+.text {
+  color: #61dafb;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: inherit;
+}
+
 .App-link {
   color: #61dafb;
+  font-size: 40px;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +44,4 @@
     transform: rotate(360deg);
   }
 }
+
